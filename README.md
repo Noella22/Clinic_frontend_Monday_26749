@@ -6,7 +6,7 @@ This is my Web Technology assignment developed using React for the frontend, Spr
 
 Below is a screenshot of my running Clinic Management System showing the office management page.
 
-![Clinic Management System](screenshot/office_page.png)
+![Clinic Management System](screenshoot/office_page.png)
 
 ## Features
 
